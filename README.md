@@ -1,10 +1,10 @@
-🎁 Amigo Secreto - Challenge Alura
+## 🎁 Amigo Secreto - Challenge Alura
 
-📌 Descrição
+## 📌 Descrição
 
 Este projeto implementa um sorteio de Amigo Secreto utilizando JavaScript, garantindo que nenhum participante tire a si mesmo. Se o sorteio falhar (por exemplo, restar apenas o próprio nome no final), ele é refeito automaticamente.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 Sorteio aleatório entre participantes
 
@@ -14,17 +14,17 @@ Evita que um mesmo nome seja sorteado mais de uma vez
 
 Refaz o sorteio caso seja necessário
 
-📜 Requisitos
+## 📜 Requisitos
 
 Ter pelo menos dois participantes no sorteio
 
 Node.js instalado (caso queira rodar no terminal)
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 JavaScript
 
-🛠️ Melhorias Futuras
+## 🛠️ Melhorias Futuras
 
 Criar uma interface gráfica para facilitar o sorteio
 
