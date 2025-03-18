@@ -6,28 +6,28 @@ Este projeto implementa um sorteio de Amigo Secreto utilizando JavaScript, garan
 
 ## 🚀 Funcionalidades
 
-Sorteio aleatório entre participantes
+- Sorteio aleatório entre participantes
 
-Garante que ninguém tire a si mesmo
+- Garante que ninguém tire a si mesmo
 
-Evita que um mesmo nome seja sorteado mais de uma vez
+- Evita que um mesmo nome seja sorteado mais de uma vez
 
-Refaz o sorteio caso seja necessário
+- Refaz o sorteio caso seja necessário
 
 ## 📜 Requisitos
 
-Ter pelo menos dois participantes no sorteio
+- Ter pelo menos dois participantes no sorteio
 
-Node.js instalado (caso queira rodar no terminal)
+- Node.js instalado (caso queira rodar no terminal)
 
 ## 🛠️ Tecnologias Utilizadas
 
-JavaScript
+- JavaScript
 
 ## 🛠️ Melhorias Futuras
 
-Criar uma interface gráfica para facilitar o sorteio
+- Criar uma interface gráfica para facilitar o sorteio
 
-Adicionar envio de notificação ou e-mail com os resultados
+- Adicionar envio de notificação ou e-mail com os resultados
 
-Permitir importação de nomes a partir de um arquivo CSV
+- Permitir importação de nomes a partir de um arquivo CSV
